@@ -32,10 +32,8 @@ After a 180-degree rotation, there is only one non-matching colored pair.
 
 Matrix befor 180-degree Rotation
 
-![image](https://imgtr.ee/images/2023/10/06/80e814fcb9f0a7b63a39d6a078360e16.jpeg)
 ![ff566e024337e71d1fb8f3e90f2639a6.png](https://imgtr.ee/images/2023/12/27/ff566e024337e71d1fb8f3e90f2639a6.png)
 
 Matrix after 180-degree Rotation
 
-![image](https://imgtr.ee/images/2023/10/06/80e814fcb9f0a7b63a39d6a078360e16.jpeg)
 ![1170d747386ac2785fee25f83b2c80dd.png](https://imgtr.ee/images/2023/12/27/1170d747386ac2785fee25f83b2c80dd.png)
